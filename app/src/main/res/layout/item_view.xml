@@ -26,7 +26,7 @@
         android:layout_toEndOf="@+id/imagenview"
         android:layout_below="@+id/name"
         android:textColor="@color/black"
-        android:textSize="20dp"
+        android:textSize="15dp"
         tools:text="email@email.com"/>
     <LinearLayout
         android:layout_width="match_parent"
